@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I’m Adhi 👋  
 
-<!--
-**Adithya-JD/Adithya-JD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physicist wandering through quantum systems — from non-Hermitian quirks to transport and computation.  
+I like when math starts talking back through code.  
 
-Here are some ideas to get you started:
+## 🛠️ What you’ll find here
+- Quantum models that misbehave (HN, SSH, and more to come)  
+- Spectra that look like abstract paintings but are actually physics  
+- Code that pretends to be tidy (until you read the comments)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun Facts
+- I break symmetries for fun (don’t worry, only in Hamiltonians).  
+- If something runs without an error on first try, I assume the physics is wrong.  
+
+✨ *This is my little sandbox: physics, code, and a bit of chaos disguised as research.*  
