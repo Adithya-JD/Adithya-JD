@@ -21,7 +21,7 @@ Building my computational physics toolkit in public. Some repos are polished, ot
 
 ---
 
-💼 [LinkedIn](www.linkedin.com/in/adithya-j-d) • 🎓 [Google Scholar](https://scholar.google.com/citations?user=S-HYUrYAAAAJ) • 📧 jdadithya@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/adithya-j-d/) • 🎓 [Google Scholar](https://scholar.google.com/citations?user=S-HYUrYAAAAJ) • 📧 jdadithya@gmail.com
 
 ---
 
